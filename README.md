@@ -1,1 +1,1 @@
-# industrial-attachment-training-qubitech-Solutions-
+# industrial-attachment-training-qubitech-Solutions
