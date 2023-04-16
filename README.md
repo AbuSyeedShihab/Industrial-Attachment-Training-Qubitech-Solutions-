@@ -1,6 +1,6 @@
 # Industrial Attachment Training (Qubitech Solutions)
 
-## Creating A Exercise Tracker App with MERN stack
+## Creating An Exercise Tracker App with MERN stack
 Resource : https://www.youtube.com/watch?v=7CqJlxBYj-M&t=1237s
 
 ## My Learnings
