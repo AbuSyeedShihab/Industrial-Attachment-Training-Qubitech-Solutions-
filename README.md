@@ -8,3 +8,7 @@ Resource : https://www.youtube.com/watch?v=7CqJlxBYj-M&t=1237s
   2. How to create a cluster in MongoDB atlas
   3. How to create an HTTP server using Express framework
   4. How to connect the server to the database created in MongoDB atlas
+  5. How to create database schema using mongoose and putting data into the databse
+  6. How to build router files for handling user requests (CRUD operations)
+  7. How to test the server API using Insomnia (by doin CRUD operations)
+  8. How to edit database entities in MongoDB directly
